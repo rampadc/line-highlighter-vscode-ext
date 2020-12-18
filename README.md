@@ -4,6 +4,6 @@
 
 Highlights specific lines in the source code.
 
-![Preview][demo.gif]
+![Preview](demo.gif)
 
 **Enjoy!**
