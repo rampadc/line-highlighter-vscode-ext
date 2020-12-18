@@ -6,6 +6,10 @@
 	},
 	"publisher": "Cong Nguyen",
 	"license": "Apache-2.0",
+	"repository": {
+		"url": "https://github.com/rampadc/line-highlighter-vscode-ext",
+		"type": "git"
+	},
 	"displayName": "line-highlighter",
 	"description": "Highlight code for demos",
 	"version": "1.0.0",
