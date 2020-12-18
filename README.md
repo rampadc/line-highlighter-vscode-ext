@@ -4,6 +4,6 @@
 
 Highlights specific lines in the source code.
 
-![Preview](demo.gif)
+![Preview](https://raw.githubusercontent.com/rampadc/line-highlighter-vscode-ext/main/demo.gif)
 
 **Enjoy!**
